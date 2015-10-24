@@ -100,7 +100,7 @@
     <None Include="Example\bibtex.aux">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Example\bib_ref_cur.bib">
+    <None Include="Example\bib_ref_cut.bib">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="LICENSE" />
