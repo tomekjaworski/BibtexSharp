@@ -81,6 +81,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BBLGenerator.cs" />
+    <Compile Include="Bib\BibException.cs" />
+    <Compile Include="Bib\Entry.cs" />
+    <Compile Include="Bib\EntryCollection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
