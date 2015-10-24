@@ -13,3 +13,5 @@ Try. The Understanding will be revealed to you :)
 
 # Usage
 I've used C# so any .NET-ish platform (like Mono) should suffice to run this.
+A sample result is givent in a PDF file here:
+https://github.com/tomekjaworski/BibtexSharp/blob/master/Example-Output/page.pdf
